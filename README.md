@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Lalit saini.<br>I'm a full stack developer in MERN Stack.<br>I have strong understanding of javascript, react.js, Node.js, express.js and MongoDB.<br>If you are hiring for freshers, then give me a chance for job or internship.<br>Thank you
+Hello, I'm Lalit saini.<br>I'm a full stack developer in MERN Stack.<br>I have strong understanding of javascript, react.js, Node.js, express.js and MongoDB.<br>Thank you
 
 
 ## 🌐 Socials:
