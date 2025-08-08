@@ -76,7 +76,7 @@ Hello, I'm Lalit saini.<br>I'm a full stack developer in MERN Stack.<br>I have s
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lalitsaini3747&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=w3lalitsaini&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lalitsaini3747&icon=2&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=w3lalitsaini&icon=2&color=3)](https://visitcount.itsvg.in)
