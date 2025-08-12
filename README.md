@@ -13,7 +13,7 @@ Hello, I'm Lalit saini.<br>I'm a full stack developer in MERN Stack.<br>I have s
 </p>
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr width="100%" ><td valign="top" width="33%">
 
 
 
