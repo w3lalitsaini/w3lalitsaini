@@ -6,6 +6,8 @@
 > Mission: Build Scalable + Profitable Tech Products
 > Status: Learning. Building. Improving.
 🛠 TECH ARSENAL
+>
+> 
 ⚡ Frontend
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,figma" /> </p>
 🧩 Backend
@@ -29,6 +31,36 @@ while(alive){
 🔥 Build scalable SaaS products
 
 💰 Generate income through tech
+
+
+## 🔗 [SYSTEM_OVERRIDE] // AUTHOR_INFO
+<table>
+  <tr>
+    <td width="50%">
+      <b>Lalit Saini</b><br>
+      <i>Systems Architect & MERN Specialist</i><br><br>
+      <code>[Location]: Earth.js</code><br>
+      <code>[Status]: Open for Global Collaborations</code><br>
+      <code>[Focus]: SaaS Architecture & Scalability</code>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3lalitsaini&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+## ⚡ TECH_STACK_OVERVIEW
+### 🟢 CORE_STREAMS
+- **Frontend Architecture:** React/Next.js with Atomic Design Patterns.
+- **Backend Systems:** Scalable Microservices using Node, Express, & Bun.
+- **Data Persistence:** Relational (Postgres) & NoSQL (MongoDB/Redis) Hybridization.
+
+## 🚀 ACTIVE_MISSIONS (Featured Projects)
+- 💠 **Project_Alpha:** A high-concurrency SaaS platform. [Repo Link]
+- 💠 **Project_Beta:** Real-time data visualization tool. [Live Demo]
+
+## 📈 ACTIVITY_FEED
+![Snake animation](https://github.com/w3lalitsaini/w3lalitsaini/blob/output/github-contribution-grid-snake.svg)
 
 🌍 Work with global startups
 
