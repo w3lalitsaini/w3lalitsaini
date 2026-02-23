@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/render?](https://w3lalit.vercel.app/avatar/32.jpg)type=soft&color=00FF99&height=200&section=header&text=LALIT%20SAINI&fontSize=80&fontAlignY=45&animation=fadeIn&desc=FULL%20STACK%20MERN%20ARCHITECT&descAlignY=65&descSize=20" />
+  <img src="https://w3lalit.vercel.app/avatar/32.jpg
+type=soft&color=00FF99&height=200&section=header&text=LALIT%20SAINI&fontSize=80&fontAlignY=45&animation=fadeIn&desc=FULL%20STACK%20MERN%20ARCHITECT&descAlignY=65&descSize=20" />
 </p>
 
 <p align="center">
