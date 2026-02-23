@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00FF99&height=200&section=header&text=LALIT%20SAINI&fontSize=80&fontAlignY=45&animation=fadeIn&desc=FULL%20STACK%20MERN%20ARCHITECT&descAlignY=65&descSize=20" />
+  <img src="[https://capsule-render.vercel.app/render?](https://w3lalit.vercel.app/avatar/32.jpg)type=soft&color=00FF99&height=200&section=header&text=LALIT%20SAINI&fontSize=80&fontAlignY=45&animation=fadeIn&desc=FULL%20STACK%20MERN%20ARCHITECT&descAlignY=65&descSize=20" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=00FF99&center=true&vCenter=true&width=1000&lines=root@lalit:~#+Access+Granted...;root@lalit:~#+MERN+Stack+Specialist;root@lalit:~#+Building+Scalable+Digital+Systems;root@lalit:~#+Code.+Build.+Scale.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=00FF99&center=true&vCenter=true&width=1000&lines=w3_Lalit_saini:~#+Access+Granted...;root@lalit:~#+MERN+Stack+Specialist;root@lalit:~#+Building+Scalable+Digital+Systems;root@lalit:~#+Code.+Build.+Scale.+Repeat." />
 </p>
 
 ---
